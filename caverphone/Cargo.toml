@@ -1,0 +1,7 @@
+[package]
+name = "trphonemes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rphonetic = "2.2.0"
